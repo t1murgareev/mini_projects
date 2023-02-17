@@ -1,2 +1,2 @@
 # mini_projects
-Here are collected mini projects in java
+Here are collected mini projects any languages
